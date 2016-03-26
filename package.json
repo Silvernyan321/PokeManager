@@ -1,0 +1,29 @@
+{
+  "name": "pokemanager",
+  "version": "1.0.0",
+  "description": "This module helps deal with Pokemon and keep track of them easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tigerball890/PokeManager.git"
+  },
+  "keywords": [
+    "dex",
+    "hastebin",
+    "JSON",
+    "moveset",
+    "ability"
+  ],
+  "author": "Tigerball890",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tigerball890/PokeManager/issues"
+  },
+  "homepage": "https://github.com/Tigerball890/PokeManager#readme",
+  "dependencies": {
+    "colors": "1.1.2"
+  }
+}

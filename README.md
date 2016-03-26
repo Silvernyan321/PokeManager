@@ -1,2 +1,1 @@
 # PokeManager
-Download it
